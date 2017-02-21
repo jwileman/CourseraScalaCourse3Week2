@@ -1,0 +1,7 @@
+runMain reductions.ParallelCountChangeRunner
+exit
+runMain reductions.ParallelParenthesesBalancingRunner
+submit jon_wileman@hotmail.co.uk mHtkjnPykSuBGl5L
+submit jon_wileman@hotmail.co.uk GeSYP4wqxGM4eTW2
+submit jon_wileman@hotmail.co.uk 
+submit jon_wileman@hotmail.co.uk OjbwS3KObgfEjg8i
